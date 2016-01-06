@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: HEALTH live at The Independent in San Francisco
-datePublished: '2016-01-06T06:21:11.842Z'
-dateModified: '2016-01-06T06:20:35.078Z'
+datePublished: '2016-01-06T06:35:19.515Z'
+dateModified: '2016-01-06T06:34:59.657Z'
 title: HEALTH - The Independent
 author: []
+sourcePath: _posts/2016-01-06-health-the-independent.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-health-the-independent.md
-published: true
 url: health-the-independent/index.html
 _type: WebPage
 
 ---
 HEALTH - Shot at The Independent (December 11)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0fc2373-4428-4c43-9ebc-3982f60509d9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b95860b-04fb-4d70-b4cf-278d3efda0b7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce36016b5678c1687d8b1267af047160a3796e7d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8122af70301bd8659c48f45e82ce2529d3995ce.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d844fa6-7633-4e18-95f0-eb580c8943e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c39d97f-4f8e-4644-bfa0-0df7c58bf340.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14aac9bb-ac76-4b35-8ec3-cbae9b6a61c0.jpg)
