@@ -1,0 +1,28 @@
+name: Simmons Tobias Photo
+favicon: null
+layout_spectrum: 0.11851865169592202
+typography_spectrum: 0.8178619900718331
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.712718803435564
+  lightness: 0.53254509344697
+  saturation: 0.15117367217317224
+  rhythmicContrast: 0.456397790228948
+purpose: []
